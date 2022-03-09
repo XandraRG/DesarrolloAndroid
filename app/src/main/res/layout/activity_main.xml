@@ -25,8 +25,8 @@
     <Button
         android:id="@+id/modo_foto"
         style="@style/Widget.MaterialComponents.Button.TextButton"
-        android:layout_width="98dp"
-        android:layout_height="63dp"
+        android:layout_width="95dp"
+        android:layout_height="65dp"
         android:text="camera"
         android:textSize="10sp"
         app:icon="@drawable/_02_camara"
@@ -38,8 +38,8 @@
     <Button
         android:id="@+id/modo_texto"
         style="@style/Widget.MaterialComponents.Button.TextButton"
-        android:layout_width="98dp"
-        android:layout_height="63dp"
+        android:layout_width="95dp"
+        android:layout_height="65dp"
         android:text="Text"
         android:textSize="10sp"
         app:icon="@drawable/_04_teclado"
@@ -51,8 +51,8 @@
     <Button
         android:id="@+id/modo_voz"
         style="@style/Widget.MaterialComponents.Button.TextButton"
-        android:layout_width="98dp"
-        android:layout_height="63dp"
+        android:layout_width="95dp"
+        android:layout_height="65dp"
         android:text="microphone"
         android:textSize="10sp"
         app:icon="@drawable/_05_ondas_de_sonido"

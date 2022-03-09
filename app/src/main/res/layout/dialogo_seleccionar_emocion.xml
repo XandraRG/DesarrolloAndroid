@@ -144,8 +144,8 @@
 
     <ImageView
         android:id="@+id/imageView8"
-        android:layout_width="69dp"
-        android:layout_height="54dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
         android:layout_marginTop="32dp"
         android:src="@drawable/inseguro"
         app:layout_constraintBottom_toTopOf="@+id/checkBox9"
